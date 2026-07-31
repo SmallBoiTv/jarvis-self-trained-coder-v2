@@ -1,0 +1,13 @@
+﻿{
+    "backingModels":  [
+                          "qwen3.6:27b"
+                      ],
+    "updatedAt":  1785525757458,
+    "description":  "Coding specialist backed by Qwen 3.6",
+    "baseModel":  "qwen3.6:27b",
+    "modelId":  "jarvis-self-trained-coder-v2",
+    "samplesCount":  0,
+    "name":  "Jarvis Self-Trained Coder V2",
+    "currentVersion":  "jarvis-v1-initial",
+    "lastSync":  1785525757458
+}
