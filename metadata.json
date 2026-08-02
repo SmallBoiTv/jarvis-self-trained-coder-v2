@@ -6,8 +6,8 @@
   "backingModels": [
     "qwen3.6:27b"
   ],
-  "currentVersion": "jarvis-v13-1785665301303",
-  "lastSync": 1785665306755,
-  "samplesCount": 67,
-  "updatedAt": 1785665306755
+  "currentVersion": "jarvis-v14-1785668061270",
+  "lastSync": 1785668066816,
+  "samplesCount": 68,
+  "updatedAt": 1785668066816
 }
