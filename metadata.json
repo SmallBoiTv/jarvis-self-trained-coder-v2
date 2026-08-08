@@ -1,13 +1,13 @@
 {
   "modelId": "jarvis-self-trained-coder-V2",
   "name": "Jarvis Self-Trained Coder V2",
-  "description": "Coding specialist backed by Qwen 3.6",
+  "description": "Coding specialist backed by Qwen 3.6. Self-learning enabled with LoRA adapter support.",
   "baseModel": "qwen3.6:27b",
   "backingModels": [
     "qwen3.6:27b"
   ],
-  "currentVersion": "jarvis-v22-1785709705430",
-  "lastSync": 1785709712008,
-  "samplesCount": 142,
-  "updatedAt": 1785709712008
+  "currentVersion": "jarvis-v117-1786179410129",
+  "lastSync": 1786179421417,
+  "samplesCount": 499,
+  "updatedAt": 1786179421417
 }
